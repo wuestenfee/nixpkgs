@@ -5017,6 +5017,8 @@ with pkgs;
     crystal
     ;
 
+  ameba-ls = callPackage ../development/tools/language-servers/ameba-ls { };
+
   crystalline = callPackage ../development/tools/language-servers/crystalline {
     llvmPackages = crystal.llvmPackages;
   };
