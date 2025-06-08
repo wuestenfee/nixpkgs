@@ -26905,6 +26905,13 @@
     githubId = 20400405;
     name = "Wucke";
   };
+  wuestenfee = {
+    name = "Wüstenfee";
+    email = "wuestenfee@wuestenfee.mozmail.com";
+    matrix = "@wuestenfee:matrix.org";
+    github = "wuestenfee";
+    githubId = 194589421;
+  };
   wulfsta = {
     email = "wulfstawulfsta@gmail.com";
     github = "Wulfsta";
